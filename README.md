@@ -23,7 +23,7 @@ The data set can be downloaded from: https://www.yelp.com/dataset/challenge
 The data set has size of 6.84 GB in total, over 1.8M reviews. Among those, _business, _review, _user are analyzed in this project.
 
 
-## 3. Analysis workflow
+## 3. Analysis Workflow
 
 * Load the data, performed data cleaning and feature selection. 
 Script see Yelp_Dataset_Preprocess_YL.ipynb
