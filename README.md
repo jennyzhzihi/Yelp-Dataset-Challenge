@@ -10,7 +10,7 @@ The reviews are selected to be LasVegas based, since LA is a popular touristy ci
 
 The reviews are performed with NLP and split to traing and test data set.
 
-Machine learning models, such as random forest, gradient boosting and Logistic regression are applied on the training data to predict the test data set. The end churn prediction accuracy is around 0.92 on the training and 0.91 on the testing data set, which is 14% more than the 80% baseline.
+Machine learning models, such as random forest, gradient boosting and Logistic regression are applied on the training data to predict the test data set. 
 
 The result provides important insights to what measures the customers satisfaction and what business can focus to improve their service.
 
