@@ -10,9 +10,9 @@ The restaurants reviewed are selected to be Las Vegas based, since Las Vegas is 
 
 The reviews are performed with NLP and split to traing and test data set.
 
-Machine learning models, such as random forest, gradient boosting and Logistic regression are applied on the training data to predict the test data set. 
+Machine learning models, such as Logistic regression Naive Bayes and Random forest, are implemented to predict if the restaurant performance is good. The performance is measured by the restaurant average stars.
 
-The result provides important insights to what measures the customers satisfaction and what business can focus to improve their service.
+The result provides important insights to what measure the customers satisfaction and what business can focus on to improve their service.
 
 The recommender systems is based on Collaborative filteringm based on the item-item similarity
 
