@@ -12,7 +12,7 @@ The reviews are performed with NLP and split to traing and test data set.
 
 Machine learning models, such as Logistic regression Naive Bayes and Random forest, are implemented to predict if the restaurant performance is good. The performance is measured by the restaurant average stars.
 
-The result provides important insights to what measure the customers satisfaction and what business can focus on to improve their service.
+The result provides important insights to how the customers reviews reflect the restaurant performance and what business can focus on to improve their service.
 
 The recommender systems is based on Collaborative filteringm based on the item-item similarity
 
