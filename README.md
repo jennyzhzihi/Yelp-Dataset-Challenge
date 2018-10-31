@@ -4,7 +4,7 @@ Natural Language Processing & Sentiment Analysis
 
 ## 1. Project Summary
 
-This purpose of this project is to build a sentiment analysis model that predicts restaurant performance and construct a customer recomendation system based on the ratings
+This purpose of this project is to build a sentiment analysis model that predicts positive/negative reviews and construct a customer recomendation system based on the average ratings
 
 The restaurants reviewed are selected to be Las Vegas based, since Las Vegas is a popular touristy city, the time window is set to past two years,i.e, starting from 2016-01-01
 
